@@ -1,0 +1,5 @@
+/Users/Christian/Projects/PicoPlaca/PicoPlaca/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Christian/Projects/PicoPlaca/PicoPlaca/bin/Debug/PicoPlaca.exe.mdb
+/Users/Christian/Projects/PicoPlaca/PicoPlaca/bin/Debug/PicoPlaca.exe
+/Users/Christian/Projects/PicoPlaca/PicoPlaca/obj/x86/Debug/PicoPlaca.exe
+/Users/Christian/Projects/PicoPlaca/PicoPlaca/obj/x86/Debug/PicoPlaca.exe.mdb
